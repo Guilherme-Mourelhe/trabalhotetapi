@@ -1,0 +1,54 @@
+{
+  "Carros": [
+    {
+      "chassi": "9bwhe21jx24060831",
+	  "modelo": "Aventador",
+      "ano_fab": 2012,
+      "preco": "R$: 8,700,000",
+      "fab_id": 1
+    },
+   {
+      "chassi": "7ywhe21jx24065644",
+	  "modelo": "Reventon",
+      "ano_fab": 2008,
+      "preco": "R$: 9,460,000",
+      "fab_id": 1
+    },
+    {
+      "chassi": "4ewytr77xc24060529",
+	  "modelo": "Enzo Ferrari",
+      "ano_fab": 2002,
+      "preco": "R$: 12,900,000",
+      "fab_id": 2
+    },
+    {
+      "chassi": "9bwhe21jx24089777",
+	  "modelo": "LaFerrari",
+      "cor": "Vermelho",
+      "ano_fab": 2013,
+      "preco": "R$: 14,000,000",
+      "fab_id": 2
+    },
+	{
+      "chassi": "3xfhe54jx22060435",
+	  "modelo": "Gallardo",
+      "ano_fab": 2003,
+      "preco": "R$: 1,340,000",
+      "fab_id": 1
+    }
+  ],
+  "Fabricante": [
+    {
+      "id": 1,
+      "nome": "Lamborghini",
+	  "origem": "Itália",
+	  "ano_fundacao": 1963
+    },
+    {
+      "id": 2,
+      "nome": "Ferrari",
+	  "origem": "Itália",
+	  "ano_fundacao": 1947
+    }
+  ]
+}
